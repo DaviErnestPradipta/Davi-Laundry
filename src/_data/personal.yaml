@@ -1,11 +1,11 @@
-email: hola@somemail.com
+email: daviernestpradipta@gmail.com
 address: |-
-  Organization name
-  Your street
-  12345, city
-  Tel: +34 928231911
-platforms:
-  github: 'https://github.com/madrilene/eleventy-excellent'
-  mastodon: 'https://front-end.social/@lene'
-  bluesky: 'https://bsky.app/profile/lenesaile.com'
-  kofi: 'https://ko-fi.com/lenesaile'
+  Laundry
+  Shop 3/24 Flushcombe Road
+  Blacktown, NSW
+  +61 000 000 000
+# platforms:
+  # github: 'https://github.com/madrilene/eleventy-excellent'
+  # mastodon: 'https://front-end.social/@lene'
+  # bluesky: 'https://bsky.app/profile/lenesaile.com'
+  # kofi: 'https://ko-fi.com/lenesaile'
